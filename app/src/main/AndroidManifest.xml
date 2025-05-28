@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Learning_github"
         tools:targetApi="31">
         <activity
+            android:name=".SR_JK"
+            android:exported="false" />
+        <activity
             android:name=".captain"
             android:exported="false" />
         <activity
